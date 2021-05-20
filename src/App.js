@@ -10,7 +10,7 @@ import './App.css';
 
 const KEY_COMMANDS = [
   'jad --info',
-  'jad --skills',
+  'jad --stack',
   'jad --connect',
   'jad --clear',
 ];
@@ -60,7 +60,7 @@ function App() {
               {command.value}
             </p>
             { command.value === 'jad --info' && <PersonalInfo /> }
-            { command.value === 'jad --skills' && <Skills /> }
+            { command.value === 'jad --stack' && <Skills /> }
             { command.value === 'jad --connect' && <Connect /> }
             { command.type === 'invalidCommand' && <InvalidCommand /> }
             <InfoLine basic={true} />
