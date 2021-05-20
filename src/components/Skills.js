@@ -15,7 +15,7 @@ function Skills() {
             <p className="m-0">* I am on a <span className="green-text">Monolithic</span> architecture. Adding some members, hey let's use <span className="green-text">Single SPA</span> for our <span className="green-text">Micro Front-Ends</span>!</p>
             <p className="m-0">* And since we are now using micro front-ends. Let's build some <span className="green-text">Micro Services</span>!</p>
             <p className="m-0">* Drinks <span className="yellow-text">coffee</span>... Oh shoot! I forgot our Application State!</p>
-            <p className="m-0">* Hey, do you want to use <span className="green-text">Singleton Design Patter</span>? How about <span className="green-text">Redux</span>?</p>
+            <p className="m-0">* Hey, do you want to use <span className="green-text">Singleton Design Pattern</span>? How about <span className="green-text">Redux</span>?</p>
             <p className="m-0">* Too much <span className="red-text">coffee</span> now I can't sleep.</p>
         </div>
     );
