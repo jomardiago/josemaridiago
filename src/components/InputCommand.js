@@ -3,7 +3,7 @@ import React from 'react';
 function InputCommand({ handleKeyCommand }) {
     return (
         <p>
-            $ <input type="text" name="command" className="command-input" autoFocus onKeyDown={handleKeyCommand} />
+            $ <input type="text" name="command" placeholder="hey, type here..." className="command-input" autoFocus onKeyDown={handleKeyCommand} />
         </p>
     );
 }
