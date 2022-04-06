@@ -12,7 +12,7 @@ function PersonalInfo() {
             <p className="m-0">
                 <span className="green-text">Bio: </span> 
                 <span>
-                    <span className="yellow-text">Full Stack Developer</span> since 2011. A <span className="yellow-text">husband</span>. A soon to be <span className="green-text">father.</span> Oh! I have a lazy <span className="pink-text">dog</span>.
+                    <span className="yellow-text">Full Stack Developer</span> since 2011. A <span className="yellow-text">husband</span>. A <span className="green-text">father.</span> Oh! I have a lazy <span className="pink-text">dog</span>.
                 </span>
             </p>
             <p className="m-0">

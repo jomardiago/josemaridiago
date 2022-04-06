@@ -5,7 +5,7 @@ function InfoLine({ basic }) {
     return (
         <>
             <p>
-                <span className="green-text">JAD@FULLSTACK-DOB91690</span> 
+                <span className="green-text">JAD@FULLSTACK-DOB916</span> 
                 <span className="pink-text"> MINGW64</span> 
                 <span className="yellow-text"> /c/manila/sta-mesa/josemaridiago</span>
                 <span className="blue-text"> (master)</span>
