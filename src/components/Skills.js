@@ -9,13 +9,22 @@ function Skills() {
                 </span>
                 <ul>
                     <li>HTML <span className="red-text">&</span> CSS</li>
-                    <li><span className="yellow-text">Javascript</span></li>
+                    <li><span className="yellow-text">JavaScript</span></li>
+                    <li><span className="yellow-text">TypeScript</span></li>
                     <li>React<span className="red-text">JS</span></li>
-                    <li><span className="red-text">Apollo</span> Client</li>
-                    <li><span className="red-text">Styled</span> Components</li>
-                    <li><span className="red-text">Chakra</span> UI</li>
-                    <li><span className="red-text">Carbon</span> Components</li>
-                    <li>Micro Frontends</li>
+                    <li><span className="red-text">TanStack</span> React Query</li>
+                    <li><span className="yellow-text">Axios</span></li>
+                    <li><span className="red-text">React</span> Router</li>
+                    <li><span className="red-text">vite-plugin-pages</span> (File Based Routing)</li>
+                    <li><span className="red-text">Carbon Components</span> React</li>
+                    <li><span className="yellow-text">Carbon Icons</span> React</li>
+                    <li><span className="red-text">Carbon Charts</span> React</li>
+                    <li><span className="yellow-text">Sass</span></li>
+                    <li><span className="yellow-text">Vitest</span></li>
+                    <li><span className="red-text">Testing Library</span> React</li>
+                    <li><span className="red-text">Hook Form</span> React</li>
+                    <li><span className="yellow-text">Zod</span></li>
+                    <li><span className="yellow-text">Zustand</span></li>
                 </ul>
             </p>
             <p className="m-0">
