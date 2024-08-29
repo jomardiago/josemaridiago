@@ -32,13 +32,28 @@ function Skills() {
                     Backend:
                 </span>
                 <ul>
-                    <li><span className="yellow-text">Javascript</span></li>
+                    <li><span className="yellow-text">JavaScript</span></li>
+                    <li><span className="yellow-text">TypeScript</span></li>
                     <li>Node<span className="red-text">JS</span></li>
-                    <li>Express</li>
-                    <li><span className="red-text">Graph</span>QL</li>
-                    <li><span className="red-text">Couch</span>DB</li>
+                    <li>NestJS</li>
+                    <li><span className="red-text">PostgreSQL</span></li>
                     <li><span className="red-text">Mongo</span>DB</li>
-                    <li><span className="red-text">Apollo</span> Server</li>
+                    <li><span className="yellow-text">Prisma</span></li>
+                </ul>
+            </p>
+            <p className="m-0">
+                <span className="green-text">
+                    Tools:
+                </span>
+                <ul>
+                    <li><span className="yellow-text">VSCode</span></li>
+                    <li><span className="yellow-text">Github</span></li>
+                    <li><span className="red-text">Docker</span></li>
+                    <li>Postman</li>
+                    <li><span className="red-text">Vite</span></li>
+                    <li><span className="red-text">Prettier</span>DB</li>
+                    <li><span className="yellow-text">Husky</span></li>
+                    <li><span className="yellow-text">Nginx</span></li>
                 </ul>
             </p>
         </div>
